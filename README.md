@@ -8,7 +8,7 @@ You need the following to build and run the application:
 
 ## Setup Instructions
 
-1. Clone the repository 
+1. Clone the repository from [here](git@github.com:Manuel1407/OnlineBookstore.git)
 2. MySqlWorkBench must be running locally
 3. Navigate to the project directory
 4. Run `mvn clean install` to build the project
